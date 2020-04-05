@@ -1,0 +1,59 @@
+html {
+  font-size: 10px;
+  font-family: sans-serif;
+}
+
+body {
+  font-size: 1.7rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  padding: 10px;
+  margin-bottom: 0;
+}
+
+p {
+  margin: 20px;
+}
+
+#main {
+  background: silver;
+  margin: 30px 8px;
+  padding: 15px;
+}
+
+#img-div {
+  background: white;
+}
+
+#img-caption {
+  padding: 20px;
+}
+
+h3 {
+  margin: 50px;
+}
+
+ol {
+  max-width: 600px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+li {
+  margin: 15px;
+}
+
+a:hover {
+  color: blue;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
